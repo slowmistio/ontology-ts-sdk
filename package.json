@@ -71,7 +71,7 @@
   "dependencies": {
     "@ont-community/hdkey-secp256r1": "^1.0.1",
     "@ont-community/html5-websocket": "^2.0.2",
-    "axios": "^0.17.1",
+    "axios": "^0.21.3",
     "babel-polyfill": "^6.26.0",
     "base-x": "^3.0.3",
     "base64-url": "^2.2.0",
